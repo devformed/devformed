@@ -5,9 +5,9 @@ agorokh:~$ cat description.txt
 
 {
   name: Anton Gorokh
-  languages: [english, polish, russian, ukrainian]
+  languages: english, polish, ukrainian, russian
   passions: [
-    development: Java, Kotlin, JavaScript, TypeScript, C++
+    development: Java, Kotlin, JavaScript, TypeScript, C++, Shell
     games: Too much time spent
   ]
 }
