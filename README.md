@@ -1,15 +1,15 @@
 ## <p align="center">ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴇɴᴊᴏʏᴇʀ ᴀɴᴅ ɢᴀᴍᴇs ᴇɴᴛʜᴜsɪᴀsᴛ</p>
 
 ```
-agorokh:~$ cat description.txt
+agorokh:~$ cat description.yml
 
 {
   name: Anton Gorokh
-  languages: english, polish, ukrainian, russian
-  passions: [
-    development: Java, Kotlin, JavaScript, TypeScript, C++, Shell
-    games: Too much time spent
-  ]
+  languages: ukrainian, russian, polish, english
+  development:
+    sql: PosrgreSQL, MariaDB, MySQL
+    nosql:  Redis, MongoDB
+    langs: Java, Kotlin, JavaScript, TypeScript, C++, Shell, ASM
 }
 ```
 
