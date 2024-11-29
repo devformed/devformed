@@ -1,7 +1,7 @@
 ## <p align="center">ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴇɴᴊᴏʏᴇʀ ᴀɴᴅ ɢᴀᴍᴇs ᴇɴᴛʜᴜsɪᴀsᴛ</p>
 
 ```
-agorokh:~$ cat description.yml
+tonko:~$ cat description.yml
 
 {
   name: Anton Gorokh
